@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T05:06:11.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="BvsPIqm6R08HaulnFyLc" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T05:10:24.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="DMadSFdS2Wr1Y53-YVSW" version="17.2.4" type="github">
   <diagram id="CHUaL_o50_h7TnW0UWq2" name="Page-1">
     <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,6 +36,15 @@
         </mxCell>
         <mxCell id="lYWz5LpffXI_vAOoT8XD-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="lYWz5LpffXI_vAOoT8XD-8" target="lYWz5LpffXI_vAOoT8XD-10">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lYWz5LpffXI_vAOoT8XD-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lYWz5LpffXI_vAOoT8XD-8" target="lYWz5LpffXI_vAOoT8XD-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="480" />
+              <mxPoint x="600" y="380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="lYWz5LpffXI_vAOoT8XD-8" value="persyaratan lengkap?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="364" y="440" width="100" height="80" as="geometry" />
@@ -80,6 +89,18 @@
         </mxCell>
         <mxCell id="lYWz5LpffXI_vAOoT8XD-16" value="end" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="354" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lYWz5LpffXI_vAOoT8XD-35" value="Iya" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="370" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lYWz5LpffXI_vAOoT8XD-36" value="Tidak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="494" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lYWz5LpffXI_vAOoT8XD-37" value="Iya" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="370" y="763.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lYWz5LpffXI_vAOoT8XD-38" value="Tidak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="484" y="700" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
